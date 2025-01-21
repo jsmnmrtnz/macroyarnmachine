@@ -4,7 +4,7 @@ How exciting you want to build the Macro Yarn Machine. I have built this machine
 Therefor I want to credit:
 1.) Circular Knitic by Varvara Guljajeva and Canet Sola, 2014. https://github.com/var-mar/circular_knitic
 
-2.) HILO Spinning Machine. As I have been working with Sara Diaz Rodriguez closely for the past 2 years and learned about Open Textile Hardware from her. https://www.hilotextiles.com/
+2.) HILO Spinning Machine. As I have been working with Sara Diaz Rodriguez closely for the past 2 years and learned about Open-Source Hardware for Textiles from her. https://www.hilotextiles.com/
 
 If you want to credit my machine, please use:
 „Macro Yarn Machine“ by Jasmin Martinez, 2024
